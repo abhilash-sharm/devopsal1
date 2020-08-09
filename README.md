@@ -1,5 +1,5 @@
 # Problem Statement :
-- create 3 jobs in jenkins named as job1, job2 , job3
+-create 3 jobs in jenkins named as job1, job2 , job3
 
 -create a git repository with two branches 1.master(default) 2.dev1
 
